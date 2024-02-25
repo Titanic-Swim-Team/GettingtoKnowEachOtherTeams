@@ -1,0 +1,33 @@
+.picture {
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  .front {
+    padding-top: 50px;
+    padding-right: 250px;
+    padding-left: 250px;
+    text-align: center;
+  }
+  
+  .qInfo {
+    display: table;
+    margin: 0 auto;
+  }
+  
+  .qHeader {
+    text-align: center;
+  }
+  
+  .names {
+    padding-left: 280px;
+
+  }
+  
+  .list {
+    text-align: left;
+  }
+  
+  
+ 
+  
